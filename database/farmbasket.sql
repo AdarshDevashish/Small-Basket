@@ -2,8 +2,8 @@
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1:3344
--- Generation Time: Apr 18, 2023 at 09:23 AM
+-- Host: 127.0.0.1
+-- Generation Time: May 20, 2023 at 07:11 PM
 -- Server version: 10.4.28-MariaDB
 -- PHP Version: 8.2.4
 
@@ -92,7 +92,15 @@ INSERT INTO `products` (`id`, `name`, `description`, `price`, `image`, `created_
 (22, 'SPINACH 500G', 'vege', 55.00, 'img/vege/7.jpg', '2023-04-12 04:03:43', '2023-04-12 04:03:43'),
 (23, 'CARROT 1KG', 'vege', 60.00, 'img/vege/8.jpg', '2023-04-12 04:04:44', '2023-04-12 04:04:44'),
 (24, 'KARELA  500G', 'vege', 45.00, 'img/vege/9.jpg', '2023-04-12 06:16:15', '2023-04-12 06:16:15'),
-(25, 'babyFRUIT 1PC', 'exotic', 190.00, 'img/exotics/2.jpg', '2023-04-17 15:23:16', '2023-04-17 16:22:50');
+(25, 'babyFRUIT 1PC', 'exotic', 190.00, 'img/exotics/2.jpg', '2023-04-17 15:23:16', '2023-04-17 16:22:50'),
+(26, 'Milk 1L', 'dairy', 60.00, ' img/dairy/1.jpg', '2023-05-20 16:16:15', '2023-05-20 16:16:15'),
+(27, 'Ghee 1 KG', 'dairy', 550.00, ' img/dairy/5.jpg', '2023-05-20 16:19:18', '2023-05-20 16:19:18'),
+(28, 'Cottage Cheese', 'dairy', 350.00, 'img/dairy/6.jpg', '2023-05-20 16:20:34', '2023-05-20 16:20:34'),
+(29, 'Butter 250gm', 'dairy', 110.00, ' img/dairy/7.jpg', '2023-05-20 16:24:20', '2023-05-20 16:24:20'),
+(30, 'Cheese 500gm', 'dairy', 280.00, 'img/dairy/8.jpg', '2023-05-20 17:06:01', '2023-05-20 17:06:01'),
+(31, 'Kiwi 1KG', 'exotic', 220.00, ' img/exotics/1.jpg', '2023-05-20 17:08:21', '2023-05-20 17:08:21'),
+(32, 'Cheery 500gm', 'exotic', 300.00, 'img/exotics/3.jpg', '2023-05-20 17:09:32', '2023-05-20 17:09:32'),
+(33, 'Avacado 1KG', 'exotic', 180.00, 'img/exotics/9.jpg', '2023-05-20 17:10:34', '2023-05-20 17:10:34');
 
 -- --------------------------------------------------------
 
@@ -155,7 +163,7 @@ ALTER TABLE `orders`
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=26;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=34;
 
 --
 -- AUTO_INCREMENT for table `users`
