@@ -94,6 +94,7 @@ section{
 }
 .home .slide-container .slide .image .shoe{
     width: 100%;
+    mix-blend-mode: multiply;
 }
 .home .slide-container .slide .image .shoe:hover{
   width: 100%;

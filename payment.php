@@ -39,7 +39,7 @@ if (isset($_POST['cartItems'])) {
 $cartItemsJson = json_encode($cartItems);
 
 // connect to the database
-$conn = mysqli_connect('localhost:3344', 'root', '', 'farmbasket');
+$conn = mysqli_connect('localhost:3306', 'root', '', 'farmbasket');
 
 // insert the cartItems JSON string into the database
 $sql = "INSERT INTO orders (email,info,address,pincode,city,state) VALUES ('$email','$cartItemsJson','$address','$pincode','$city','$state')";

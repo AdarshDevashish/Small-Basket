@@ -7,7 +7,7 @@
     <script src="https://kit.fontawesome.com/1b2f4972b7.js" crossorigin="anonymous"></script>
     <script src="js/script2.js"></script>
     <script src="js/script.js"></script>
-    <title>Farm Basket | Home</title>
+    <title>Small Basket | Home</title>
 </head>
 
 <body>

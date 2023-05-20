@@ -7,14 +7,14 @@
     <script src="https://kit.fontawesome.com/1b2f4972b7.js" crossorigin="anonymous"></script>
     <script src="js/script2.js"></script>
     <script src="js/script.js"></script>
-    <title>Farm Basket | Exotics</title>
+    <title>Small Basket | Exotics</title>
 </head>
 
 <body>
 
     <header>
         <div id="menu-bar" class="fa fa-bars"></div>
-        <a href="#" class="logo"><i class="fa-sharp fa-solid fa-basket-shopping"></i>&nbsp; FARM BASKET</i></a>
+        <a href="#" class="logo"><i class="fa-sharp fa-solid fa-basket-shopping"></i>&nbsp; SMALL BASKET</i></a>
         <nav class="navbar">
             <a href="index.php">Home</a>
             <a href="fruit.php">FRUITS</a>
