@@ -14,7 +14,7 @@
 
     <header>
         <div id="menu-bar" class="fa fa-bars"></div>
-        <a href="#" class="logo"><i class="fa-sharp fa-solid fa-basket-shopping"></i>&nbsp; FARM BASKET</i></a>
+        <a href="#" class="logo"><i class="fa-sharp fa-solid fa-basket-shopping"></i>&nbsp; SMALL BASKET</i></a>
         <nav class="navbar">
             <a href="#home">Home</a>
             <a href="fruit.php">FRUITS</a>

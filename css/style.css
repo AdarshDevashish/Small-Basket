@@ -95,10 +95,11 @@ section{
 .home .slide-container .slide .image .shoe{
     width: 100%;
     mix-blend-mode: multiply;
+    animation: slideContent .3s linear 1s backwards;
 }
 .home .slide-container .slide .image .shoe:hover{
   width: 100%;
-  transform: scale(1.1);
+  transform: scale(1.05);
   mix-blend-mode: multiply;
 }
 @keyframes shoe{
