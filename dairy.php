@@ -120,7 +120,7 @@
 
         <div class="footer-left">
 
-            <i class="fa-sharp fa-solid fa-basket-shopping">&nbsp; FARM BASKET</i>
+            <i class="fa-sharp fa-solid fa-basket-shopping">&nbsp; SMALL BASKET</i>
 
             <p class="footer-links">
                 <a href="index.php" class="link-1">Home</a>
@@ -130,7 +130,7 @@
                 <a href="dairy.php">Dairy</a>
             </p>
 
-            <p class="footer-company-name">FARM BASKET © 2023</p>
+            <p class="footer-company-name">SMALl BASKET © 2023</p>
         </div>
 
         <div class="footer-center">

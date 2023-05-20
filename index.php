@@ -75,7 +75,7 @@
 
                 </div>
                 <div class="image">
-                    <img src="img/slide/4.png" class="shoe">
+                    <img src="img/4.png" class="shoe">
                 </div>
             </div>
         </div>
