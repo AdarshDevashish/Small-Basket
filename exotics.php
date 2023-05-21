@@ -134,9 +134,9 @@
 
         <div class="footer-center">
 
-            <div>
+        <div>
                 <i class="fa fa-map-marker"></i>
-                <p><span>JAIPUR,</span> RAJASTHAN</p>
+                <p><span>PATNA,</span> BIHAR</p>
             </div>
 
             <div>
@@ -146,7 +146,7 @@
 
             <div>
                 <i class="fa fa-envelope"></i>
-                <p><a href="mailto:care@farmbasket.com">care@farmbasket.com</a></p>
+                <p><a href="mailto:care@smallbasket.com">care@smallbasket.com</a></p>
             </div>
 
         </div>
